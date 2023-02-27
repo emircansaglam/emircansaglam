@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emircan</h1>
 <h3 align="center">A passionate iOS Developer from Turkey </h3>
 
-![alt text](https://github.com/emircansaglam/emircansaglam/blob/main/fondotiendaseul.jpg?raw=true)
+![alt text](https://github.com/emircansaglam/emircansaglam/blob/main/fondotiendaseul-2.jpg?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emircansaglam&label=Profile%20views&color=0e75b6&style=flat" alt="emircansaglam" /> </p>
 
