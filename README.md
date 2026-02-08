@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=emircansaglam&label=Profile%20views&color=5DD5D5&style=flat" alt="profile views" />
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **VerbKit** - An English learning iOS app
@@ -16,7 +18,8 @@
 - 💼 iOS Developer at **N11**
 - 💬 Ask me about **Swift, SwiftUI, UIKit**
 - 📫 Reach me: **emircansaglam13@gmail.com**
-- 🎯 Goal: Build amazing iOS apps and contribute to the community
+
+---
 
 ## 🌐 Connect with me
 
@@ -26,6 +29,8 @@
 <a href="https://instagram.com/emircansaglamm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
+---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -34,23 +39,23 @@
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emircansaglam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircansaglam&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=emircansaglam&theme=dracula" alt="GitHub Streak"/>
-</div>
+---
 
 ## 🚀 Current Projects
 
-- **VerbKit** - Interactive English verb learning app with gamification (SwiftUI, iOS 17.6+)
-- **N11 SellerOffice** - E-commerce seller management platform
+**VerbKit** 🐠  
+An interactive English verb learning iOS app with gamification elements  
+`SwiftUI • iOS 17.6+ • MVVM-C`
+
+**N11 SellerOffice** 🛍️  
+E-commerce seller management platform  
+`UIKit • SwiftUI • MVVM-C`
+
+---
+
+## 📈 GitHub Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emircansaglam&theme=dracula)
 
 ---
 
